@@ -1,0 +1,18 @@
+{
+  "name": "compose.macro",
+  "version": "1.0.0",
+  "description": "Compose helper as a babel macro",
+  "main": "compose.macro.js",
+  "repository": "https://github.com/topaxi/compose.macro",
+  "author": "Damian Senn <damian.senn@topaxi.codes>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "devDependencies": {
+    "babel-plugin-macros": "^2.6.1",
+    "jest": "^24.9.0",
+    "redux": "^4.0.4"
+  }
+}
