@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Compose helper as a babel macro",
   "main": "compose.macro.js",
+  "types": "compose.macro.d.ts",
   "repository": "https://github.com/topaxi/compose.macro",
   "author": "Damian Senn <damian.senn@topaxi.codes>",
   "license": "MIT",
